@@ -1,3 +1,5 @@
-saved_variables.cfg
-adxl_results/belts/*.csv
-adxl_results/vibrations/*.tar.gz
+webcam.txt
+KlipperScreen.conf
+timelapse.cfg
+Adaptive_Mesh.cfg
+Adaptive_Purge.cfg
